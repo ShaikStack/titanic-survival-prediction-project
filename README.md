@@ -3,8 +3,8 @@
 This project predicts whether a passenger survived using Machine Learning.
 
 ## Dataset
-- train.csv → Training data
-- test.csv → Test data
+- train.csv -> Training data
+- test.csv -> Test data
 
 ## Model
 - Random Forest Classifier
@@ -17,3 +17,6 @@ This project predicts whether a passenger survived using Machine Learning.
 1. Open notebook.ipynb
 2. Run all cells
 3. Predictions saved in predictions.csv
+
+## Project Description
+A machine learning project to predict whether a passenger survived or not in the Titanic disaster.
